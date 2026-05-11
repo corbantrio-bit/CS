@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CorbanSwitch</string>
+    <string name="accessibility_service_description">CorbanSwitch uses Accessibility Services to enforce your bedtime lockout by blocking navigation buttons.</string>
+    <string name="device_admin_description">CorbanSwitch requires Device Administrator access to enforce your bedtime lockout.</string>
+    <string name="channel_name">CorbanSwitch Active</string>
+    <string name="channel_description">CorbanSwitch is running your bedtime schedule</string>
+</resources>
